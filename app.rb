@@ -9,7 +9,7 @@ class Battle < Sinatra::Base
   # our routes would go here
 
   get '/' do 
-    "Hello Battle!"
+    "Testing infrastructure working!"
     # erb: index 
   end 
 
